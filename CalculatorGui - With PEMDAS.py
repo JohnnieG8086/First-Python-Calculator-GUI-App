@@ -18,10 +18,10 @@ special changes:
 '''
 grid looks like this:
 
-1 2 3 + ^
-4 5 6 - .
-7 8 9 * C
-0 = A / D
+1 2 3 + * C
+4 5 6 - / D
+7 8 9 ^ . p
+0 A = ( ) e
 
 '''
 
